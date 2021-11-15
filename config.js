@@ -1,19 +1,21 @@
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
+    introDesc: `Chưa bao giờ em nghĩ rằng anh là gu của em đâu
+    Chưa bao giờ em nghĩ rằng em will fall in love with you(dịch cho Minh hong biếc là rơi vào lưới tình🙄🙄)
+    Mà giọng nói ngọt ngào cất ra từ headphone
+    Say đắm cồn cào lỡ yêu rồi mất khôn🙄🙄`,
+    btnIntro: 'híhí:33',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
+    btnYes: 'Yêu Hằng nhứt đời nuôn :33',
+    btnNo: 'Yêu :3',
+    question:'xế sao bạng lại yêu mềnh nhò :33',
+    btnReply: 'Chu chu :33',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    mess: 'Yêu Minh nhiêu nhắm nhắm nhuôn ó :33',
+    messDesc: 'Minh dỗi Minh buồng Minh cáu xì mềnh vẫn yêu Minhhh :33,
+    nhưng mò hong muốn xấy Minh buồng với suy nghỉ nhiều đouuu🥺🥺hong chỉ buồn bé rồi suy nghỉ mà bất cứ chuyện gì củng vậy mềnh hongg muốn xấy Minhh buồn như xế 🥺🥺
+    buồng xíu xíu hoiii nhó :(( có bé ở bên Minhh mò 🥺🥺 ôm ôm xương xương nào ❤️❤️.',
+    btnAccept: 'xem xongg gòiii xì call ngay cho tuii đi xôi :33',
+    messLink: 'https://www.facebook.com/messages/t/100032861798311' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
